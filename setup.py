@@ -1,7 +1,7 @@
 from distutils.core import setup
-import pdb
+# import pdb
 
-pdb.set_trace()
+# pdb.set_trace()
 setup(
   name = 'b3',
   packages = ['b3'], # this must be the same as the name above
